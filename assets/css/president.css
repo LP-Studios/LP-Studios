@@ -1,0 +1,19 @@
+
+.main-info h1{
+    color: rgb(255, 255, 255);
+    top: 19%;
+    left: 4%;
+    position: absolute;
+}
+.main-info p{
+    top: 26%;
+    left: 4%;
+    color: rgba(255, 255, 255, 0.532);
+    position: absolute;
+}
+.main-info img{
+    top: 250px;
+    box-shadow: 1px -20px 225px red;
+    z-index: -2;
+    position: absolute;
+}
